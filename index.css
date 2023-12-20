@@ -1,0 +1,18 @@
+
+body{
+    background-image: url(image/backround.jfif);
+    background-size: cover;
+}
+
+
+.logo{
+    width: 100px;
+
+    padding-left: 200px;
+}
+.component{
+    display: inline-block;
+    background-color: white;
+    padding-left: 500px;
+
+}
